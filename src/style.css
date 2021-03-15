@@ -1,0 +1,121 @@
+.fa-plus:enabled{
+    display: flex !important;
+    margin-left: 20px;
+    background-color:red;
+    border-radius: 20px;
+    padding: 10px 10px;
+    color:white
+    
+}
+
+.fa-plus:disabled{
+    display: flex !important;
+    margin-left: 20px;
+    background-color:gray;
+    border-radius: 20px;
+    padding: 10px 10px;
+    color:white
+    
+}
+
+.fa-minus:enabled{
+    display: flex !important;
+    margin-left: 20px;
+    background-color:blue;
+    border-radius: 20px;
+    padding: 10px 10px;
+    color:white
+    
+}
+
+.fa-minus:disabled{
+    display: flex !important;
+    margin-left: 20px;
+    background-color:gray;
+    border-radius: 20px;
+    padding: 10px 10px;
+    color:white
+    
+}
+
+.ad{
+    display: flex !important;
+    margin-left:20px;
+    margin-top:10px;
+    color:blue
+
+}
+.medium{
+    display: flex !important;
+    margin-left:20px;
+    color:blue
+
+}
+.large{
+    display: flex !important;
+    margin-left:20px;
+
+    color:blue
+
+}
+
+
+.total{
+    display: flex !important;
+    color:black;
+    margin-left: 30px;
+}
+
+.header{
+    display: flex !important;
+    margin-left: 120px;
+    color:blue;
+    font-size: 40px;
+}
+
+.trans{
+    display: flex !important;
+    
+    
+    color:blue
+}
+.Ex{
+    display: flex !important;
+    margin-left: 20px;
+}
+
+.act{
+    display: flex !important;
+    margin-left: 20px;
+}
+.admin{
+    display: flex !important;
+    margin-left: 20px;
+}
+
+.user{
+    display: flex !important;
+}
+.adult{
+    display: flex !important;
+    margin-left: 20px;
+    color: blue;
+}
+
+.child{
+    display: flex !important;
+    margin-left: 20px;
+    color:blue
+}
+/* button:disabled{
+    padding: 10px 20px;
+    font-size: 18px;
+    }
+
+button:enabled{
+    background-color:red
+    color:radius;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+}  */
